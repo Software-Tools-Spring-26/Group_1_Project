@@ -16,7 +16,7 @@ _Provide a short description of the nature of the provided data set and explain 
 
 The data includes information for 20 major metro areas, including the metro areas for the following states; Georgia, Massachusetts & New Hamshire, Illinois & Indiana, Texas, Colorado, Michigan, California, Florida, Minnesota & Wisconsin, New York & New Jersey, Pennsylvania & Maryland & Delaware, Arizona, Washington, and Washington DC & Virgina & West Virgina and Maryland.
 
-The dataset is on an annual level for 2005 to 2014. The varibles for each metro area include; the population size, employment broken down by sector, the unemployment rate, and GMP. 
+The dataset is on an annual level for 2005 to 2014. The variables for each metro area include; the population size, employment broken down by sector, the unemployment rate, and GMP. 
 
 
 ### Brief Data Summary
@@ -29,7 +29,7 @@ _Provide data analytics that add clarity to the research question. Thoroughly di
 
 ### Tableau Dashboard
 
-ZZNote: The plan is to utilize a tablue dashboard for the plots and graphics made to utilize the geogrpahic plots available given the data is split into major regions and metro areas for the main data set. In additon the second excusion dataset has data aviable at the zip code level for the housing market.
+ZZNote: The plan is to utilize a tableau dashboard for the plots and graphics made to utilize the geographic plots available given the data is split into major regions and metro areas for the main data set. In addition the second dataset for the excursion has data available at for the same MSAs (with some MSADs) to be used as proxies.
 
 ## Conclusion (10 pts)
 
