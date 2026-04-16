@@ -22,7 +22,7 @@ All group members have been collaborative and communicative, offering help and i
 * drafted tablue tables for the values by metro area.
   
 ### Grant: 
-* provided a newly clean dataset to be used.  
+* provided a newly cleaned dataset to be used.  
 
 ### Hannah: 
 * Set up the new Git repository.
