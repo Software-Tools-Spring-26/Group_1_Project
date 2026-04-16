@@ -8,7 +8,7 @@ The firm has already isolated GDP per capita aggregated by Metropolitan Statisti
 
 The primary data our team is utilizing was sourced indirectly from the Bureau of Economic Analysis (BEA), Bureau of Labor Statistics (BLS), and the US Census Bureau through Federal Reserve Economic Data (FRED). GDP, Population, Unemployment Rate,  Total Employment, Employment by NAICS 2 Digit Category, and other potential variables for Major* MSAs on FRED pretty readily. 
 
-Our team is also proposing an excursion that utilizes Federal Housing Finance Agency (FHFA) data to examine whether metro areas with strong employment-driven GDP growth also experience higher housing price appreciation, providing additional context for. The FHFA data serves as an excellent compliment to our existing data because: a) It is also available through FRED, which is ensures the definition of metropolitan area and formatting is as close as possible; b) the data is reliable and government-backed; and c) the data uses repeated sales of the same property, which accurately shows housing price appreciation.
+Our team is also proposing an excursion that utilizes Federal Housing Finance Agency (FHFA) data to examine whether metro areas with strong employment-driven GDP growth also experience higher housing price appreciation, providing additional context for Eagles Real Estate Developers. The FHFA data serves as an excellent compliment to our existing data because: a) It is also available through FRED, which is ensures the definition of metropolitan area and formatting is as close as possible; b) the data is reliable and government-backed; and c) the data uses repeated sales of the same property, which accurately shows housing price appreciation.
 
 ## Progress and Challenges: 
 
@@ -30,7 +30,7 @@ All group members have been collaborative and communicative, offering help and i
 * Drafted update for the checkpoint 2 post. 
 
 ### Nick:
-* Worked to clean supporting datasets.
+* Worked to clean the supporting FHFA dataset.
 * Set up the new Git repository.
 * 
 
