@@ -6,7 +6,7 @@ A real estate developer is considering opportunities for future investment. For 
 
 The firm has already already isolated GDP per capita aggregated by Metropolitan Statistical Area level to be a key indicator of long-run performance. Currently the firm lacks a means to forecast GDP per capita but is capable of monitoring employment trends as a guidelines to future metro level performance. The firm wants to know what are the key employment categories (NAICS-2 Digit) that will drive metro level GDP growth and what are the trends by employment category for major MSAs. This information will then inform what metro areas the firm will invest into. 
 
-In additon to the employment category data, information on the housing sales by region have also been donwloaded to also inform on the applicable housing markets that are potentional options for the firm to invest in. 
+In addition to the employment category data, information on the housing sales by region have also been donwloaded to also inform on the applicable housing markets that are potentional options for the firm to invest in. 
 
 ## Data Summary
 
