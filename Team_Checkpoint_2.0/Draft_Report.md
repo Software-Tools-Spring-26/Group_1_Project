@@ -18,21 +18,21 @@ In addition to the employment category data, our team is also proposing an excur
 
 ### Brief Data Summary
 
-**Table 1. **
+**Table 1.**
 
 <img width="236" height="117" alt="Screenshot 2026-04-15 at 7 54 35 PM" src="https://github.com/user-attachments/assets/2321398d-d13c-450d-8a51-01dd4bf5c7d7" />
 
-**Table 2. **
+**Table 2.**
 
 <img width="234" height="248" alt="Screenshot 2026-04-15 at 7 54 44 PM" src="https://github.com/user-attachments/assets/11a3ef74-4930-4104-9502-e0c943290e15" />
 
 The data has four main variables; Date, Region, Industry, and Value. The industries are the key employment categories which utilize the NAICS-2 Digit code as an identifier. The industry vairble also contains the the population size, employment broken down by sector, the unemployment rate, and GMP for the applicable metro region. The value listed for each column is the specific value. For example, the value of Altanta population indicates the number of people that live in that metro area. While the NAICS-2 values are those for the employment within that category. 
 
-Table 3. 
+**Table 3.** 
 
 <img width="1361" height="841" alt="image" src="https://github.com/user-attachments/assets/b585a97c-68a4-4150-9569-2511e3dcb5af" />
 
-Table 4. 
+**Table 4.**
 
 <img width="1014" height="913" alt="Screenshot 2026-04-15 at 8 22 34 PM" src="https://github.com/user-attachments/assets/0a9556f4-264f-4c88-8949-ccbb843c6f7b" />
 
