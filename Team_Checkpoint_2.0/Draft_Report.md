@@ -6,8 +6,7 @@ A real estate developer is considering opportunities for future investment. For 
 
 The firm has already already isolated GDP per capita aggregated by Metropolitan Statistical Area level to be a key indicator of long-run performance. Currently the firm lacks a means to forecast GDP per capita but is capable of monitoring employment trends as a guidelines to future metro level performance. The firm wants to know what are the key employment categories (NAICS-2 Digit) that will drive metro level GDP growth and what are the trends by employment category for major MSAs. This information will then inform what metro areas the firm will invest into. 
 
-In addition to the employment category data, information on the housing sales by region have also been donwloaded to also inform on the applicable housing markets that are potentional options for the firm to invest in. 
-
+In addition to the employment category data, Our team is also proposing an excursion that utilizes Federal Housing Finance Agency (FHFA) data to examine whether metro areas with strong employment-driven GDP growth also experience higher housing price appreciation, providing additional context for Eagles Real Estate Developers. 
 ## Data Summary
 
 _Provide a short description of the nature of the provided data set and explain how these characteristics affect your analysis methodology. Summarize the data set with basic descriptive statistics as applicable._
