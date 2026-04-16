@@ -4,7 +4,7 @@ Group: Grant Hanauer, Nicholas Hoffman, Aurora Seekins, and Hannah Farrell
 ## Introduction 
 A real estate developer is considering opportunities for future investment. For the purpose of this report the real estate developer is Eagles Real Estate Developers. They are a Boston based firm but operate nationally.  
 
-The firm has already already isolated GDP per capita aggregated by Metropolitan Statistical Area level to be a key indicator of long-run performance. Currently the firm lacks a means to forecast GDP per capita but is capable of monitoring employment trends as a guidelines to future metro level performance. The firm wants to know what are the key employment categories (NAICS-2 Digit) that will drive metro level GDP growth and what are the trends by employment category for major MSAs. This information will then inform what metro areas the firm will invest into. 
+The firm has already isolated GDP per capita aggregated by Metropolitan Statistical Area level to be a key indicator of long-run performance. Currently the firm lacks a means to forecast GDP per capita but is capable of monitoring employment trends as a guidelines to future metro level performance. The firm wants to know what employment categories (NAICS-2 Digit) are most impactful in driving metro level GDP growth and the trends by employment category for major MSAs. This information will then inform what metro areas the firm will invest into. 
 
 ## Data Summary
 
