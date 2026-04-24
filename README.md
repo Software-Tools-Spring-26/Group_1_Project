@@ -30,7 +30,9 @@ _Provide data analytics that add clarity to the research question. Thoroughly di
 
 ### Tableau Dashboard
 
-ZZNote: The plan is to utilize a tablue dashboard for the plots and graphics made to utilize the geogrpahic plots available given the data is split into major regions and metro areas for the main data set. In additon the second excusion dataset has data aviable at the zip code level for the housing market.
+The Tableau dashboard was developed to support the analysis of metro-level economic performance and industry composition across major U.S. metropolitan areas. Four primary visualizations were constructed. First, stacked bar charts of the top five and bottom five industries by metro area were created using percent of total employment, allowing for meaningful comparison of industry composition across regions of different sizes. Second, a line chart of Gross Metropolitan Product (GMP) over time (2005–2014) was used to illustrate differences in economic growth trajectories across metros. Third, a comparison table was built to display key economic indicators—GMP, population, total employment, and unemployment rate—for each metro area in 2014. Because the dataset was originally in long format, the table required restructuring so that each indicator could be displayed clearly as its own column.
+
+Together, these visualizations provide a comprehensive view of both the structure and performance of metropolitan economies. The industry composition charts highlight which sectors are most and least prominent within each metro, while the GMP time series captures overall economic growth patterns. The comparison table complements these visuals by providing a snapshot of economic scale and labor market conditions. By integrating these elements into a single dashboard, the analysis enables clear cross-metro comparisons and supports the identification of regions with stronger economic fundamentals relevant to real estate investment decisions.
 
 ## Conclusion (10 pts)
 
