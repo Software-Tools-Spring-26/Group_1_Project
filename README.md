@@ -3,26 +3,56 @@
 Group: Grant Hanauer, Nicholas Hoffman, Aurora Seekins, and Hannah Farrell
 
 ## Introduction 
-_Provide context regarding your decision maker, organization, and overall decision climate. State your research question. Explain how policy decisions will affect your organization and the broader community._
+A real estate developer is considering opportunities for future investment. For the purpose of this report the real estate developer is Eagles Real Estate Developers. They are a Boston based firm but operate nationally.
 
-A real estate developer is considering opportunities for future investment. For the purpose of this report the real estate developer is Eagles Real Estate Developers. They are a Boston based firm but operate nationally.  
+The firm, Eagles Real Estate Developers, has already isolated GDP per capita aggregated by Metropolitan Statistical Area level to be a key indicator of long-run performance. Currently the firm lacks a means to forecast GDP per capita but is capable of monitoring employment trends as a guide to future metro level performance. The firm wants to know what are the key employment categories (NAICS-2 Digit) that will drive metro level GDP growth and what are the trends by employment category for major MSAs. This information will then inform what metro areas the firm will invest into. 
 
-The firm has already already isolated GDP per capita aggregated by Metropolitan Statistical Area level to be a key indicator of long-run performance. Currently the firm lacks a means to forecast GDP per capita but is capable of monitoring employment trends as a guidelines to future metro level performance. The firm wants to know what are the key employment categories (NAICS-2 Digit) that will drive metro level GDP growth and what are the trends by employment category for major MSAs. This information will then inform what metro areas the firm will invest into. 
+In additon to the employment category data, information on the housing sales by region have also been downloaded to also inform on the applicable housing markets that are potential options for the firm to invest in. 
 
-In additon to the employment category data, information on the housing sales by region have also been donwloaded to also inform on the applicable housing markets that are potentional options for the firm to invest in. 
+The centeral research question for this report is to answer where Eagles Real Estate Developers should invest in. The findings of this analysis will inform the company what regions have the greatest employment and GDP growth, and as a result be the metro areas and regions that the firm should be successful in investing in.  
+
+## Data  
+
+The primary data our team is utilizing for this research was sourced indirectly from the Bureau of Economic Analysis (BEA), Bureau of Labor Statistics (BLS), and the US Census Bureau through Federal Reserve Economic Data (FRED). GDP, Population, Unemployment Rate,  Total Employment, Employment by NAICS 2 Digit Category, and other potential variables for Major MSAs on FRED pretty readily. 
+
+In addition to the primary data, this report utilizes an excursion datset of the Federal Housing Finance Agency (FHFA) data to examine whether metro areas with strong employment-driven GDP growth also experience higher housing price appreciation, providing additional context for Eagles Real Estate Developers. The FHFA data serves as an excellent compliment to our existing data because: a) It is also available through FRED, which is ensures the definition of metropolitan area and formatting is as close as possible; b) the data is reliable and government-backed; and c) the data uses repeated sales of the same property, which accurately shows housing price appreciation.
 
 ## Data Summary
 
 _Provide a short description of the nature of the provided data set and explain how these characteristics affect your analysis methodology. Summarize the data set with basic descriptive statistics as applicable._
 
-The data includes information for 20 major metro areas, including the metro areas for the following states; Georgia, Massachusetts & New Hamshire, Illinois & Indiana, Texas, Colorado, Michigan, California, Florida, Minnesota & Wisconsin, New York & New Jersey, Pennsylvania & Maryland & Delaware, Arizona, Washington, and Washington DC & Virgina & West Virgina and Maryland.
+The primary data our team is utilizing for this research was sourced indirectly from the Bureau of Economic Analysis (BEA), Bureau of Labor Statistics (BLS), and the US Census Bureau through Federal Reserve Economic Data (FRED). GDP, Population, Unemployment Rate,  Total Employment, Employment by NAICS 2 Digit Category, and other potential variables for Major MSAs on FRED pretty readily. 
 
-The dataset is on an annual level for 2005 to 2014. The varibles for each metro area include; the population size, employment broken down by sector, the unemployment rate, and GMP. 
+The data includes information for 14 major metro areas as well as the United States as a whole, including the metro areas for the following states; Georgia, Massachusetts & New Hampshire, Illinois & Indiana, Texas, Colorado, Michigan, California, Florida, Minnesota & Wisconsin, New York & New Jersey, Pennsylvania & Maryland & Delaware, Arizona, Washington, and Washington DC & Virginia & West Virginia and Maryland.
 
+The dataset is on an annual level for 2005 to 2014. The variables for each metro area include; the population size, employment broken down by sector, the unemployment rate, and GMP. 
 
+In addition to the primary data, this report utilizes an excursion datset of the Federal Housing Finance Agency (FHFA) data to examine whether metro areas with strong employment-driven GDP growth also experience higher housing price appreciation, providing additional context for Eagles Real Estate Developers. The FHFA data serves as an excellent compliment to our existing data because: a) It is also available through FRED, which is ensures the definition of metropolitan area and formatting is as close as possible; b) the data is reliable and government-backed; and c) the data uses repeated sales of the same property, which accurately shows housing price appreciation.
+ 
 ### Brief Data Summary
 
-_Plots, tables, statistics here_
+**Table 1.**
+
+<img width="236" height="117" alt="Screenshot 2026-04-15 at 7 54 35 PM" src="https://github.com/user-attachments/assets/2321398d-d13c-450d-8a51-01dd4bf5c7d7" />
+
+**Table 2.**
+
+<img width="234" height="248" alt="Screenshot 2026-04-15 at 7 54 44 PM" src="https://github.com/user-attachments/assets/11a3ef74-4930-4104-9502-e0c943290e15" />
+
+The data has four main variables; Date, Region, Industry, and Value. The industries are the key employment categories which utilize the NAICS-2 Digit code as an identifier. The industry vairble also contains the the population size, employment broken down by sector, the unemployment rate, and GMP for the applicable metro region. The value listed for each column is the specific value. For example, the value of Altanta population indicates the number of people that live in that metro area. While the NAICS-2 values are those for the employment within that category. 
+
+**Table 3.** 
+
+<img width="1361" height="841" alt="image" src="https://github.com/user-attachments/assets/b585a97c-68a4-4150-9569-2511e3dcb5af" />
+
+There are four rows and 3280 columns.
+
+**Table 4.**
+
+<img width="1014" height="913" alt="Screenshot 2026-04-15 at 8 22 34 PM" src="https://github.com/user-attachments/assets/0a9556f4-264f-4c88-8949-ccbb843c6f7b" />
+
+Table 4 inclues the summary statitics by industry across all of the regions and the USA in total. 
+
 
 ## Data Analytics
 
