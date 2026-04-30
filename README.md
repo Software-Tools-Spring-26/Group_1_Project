@@ -85,6 +85,18 @@ The Tableau dashboard was developed to provide a structured, visual analysis of 
 
 Together, these visualizations provide complementary insights into both the structure and performance of metropolitan economies. The industry composition charts identify which sectors dominate or lag within each metro, offering insight into the underlying economic base. The GMP trend visualization adds a temporal dimension, revealing which regions experienced stronger or more stable growth over time. The comparison table provides a clear snapshot of economic scale and labor market conditions, allowing for direct cross-metro comparison. By combining these elements into a single interactive dashboard, the analysis enables a more comprehensive evaluation of regional economic strength and supports the identification of metros with characteristics that may be more favorable for long-term real estate investment.
 
+### Top 5 Employment Sectors by Metro Area
+[![Top 5](Top%205.png)](https://public.tableau.com/app/profile/aurora.seekins3478/viz/GroupMetricsRough/Dashboard1?publish=yes)
+
+### Bottom 5 Employment Sectors by Metro Area
+[![Bottom 5](Bottom%205.png)](https://public.tableau.com/app/profile/aurora.seekins3478/viz/GroupMetricsRough/Dashboard1?publish=yes)
+
+### GMP Growth by Metro Area
+[![GMP Growth](GMP%20Growth.png)](https://public.tableau.com/app/profile/aurora.seekins3478/viz/GMPGrowth/Dashboard2?publish=yes)
+
+### Metro Comparison Table
+[![Metro Comparison](Metro%20Comparison.png)](https://public.tableau.com/app/profile/aurora.seekins3478/viz/MetroComp/Dashboard3?publish=yes)
+
 ## Conclusion (10 pts)
 
 _Summarize the analytical methodology and provide closure to your analytical story. Succinctly answer the research questions. Highlight the limitations of your findings and recommend future work. Do not make policy recommendations here._
