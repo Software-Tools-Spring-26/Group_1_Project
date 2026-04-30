@@ -97,8 +97,12 @@ One limitation is that there are additional varibles outside of the data used wi
 
 ## Future Work
 
-_In the future, it would be nice to expand this project with new data sources and analytics tools._
+Future work could expand this analysis by incorporating more recent data to capture current economic trends. Adding housing market data would also strengthen the connection between economic performance and real estate investment decisions.
+
+Additionally, applying econometric techniques could help identify which employment sectors are the strongest predictors of GMP growth. Expanding the dataset to include more metropolitan areas or even international comparisons could also provide a broader perspective.3
 
 ## Policy Recommendation
 
-_Introduce a specific policy decision that your decision maker is facing. Provide a data driven recommendation for their decision. Explain probable first and second order effects of the recommendation. Explain the benefits and risks of the recommendation._
+Eagles Real Estate Developers should focus most of its investment on metropolitan areas that have a diverse mix of industries and show steady GMP growth over time, while still putting a smaller portion of its money into faster-growing but more volatile cities. Metros like Boston, San Francisco, and New York stand out because they have balanced employment across sectors, consistent economic growth, and relatively stable unemployment rates. These factors suggest that demand for real estate in these areas is more likely to remain strong over time and less affected by downturns in any single industry. At the same time, cities like Orlando or Phoenix show higher growth potential but also more volatility, so investing in them at a smaller scale allows the firm to take advantage of potential gains without taking on too much risk.
+
+This strategy helps create a more stable overall portfolio by reducing exposure to economic shocks and supporting long-term returns. However, there are tradeoffs. Focusing on stable metros may mean missing out on higher returns in faster-growing cities, and larger, well-established metros often have higher costs of entry. In addition, both types of metros can still be affected by broader economic downturns. Overall, this approach balances risk and return by combining reliable markets with some exposure to higher-growth opportunities, using the employment and GMP data to guide more informed investment decisions.
