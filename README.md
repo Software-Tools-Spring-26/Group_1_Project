@@ -5,11 +5,11 @@ Group: Grant Hanauer, Nicholas Hoffman, Aurora Seekins, and Hannah Farrell
 ## Introduction 
 A real estate developer is considering opportunities for future investment. For the purpose of this report the real estate developer is Eagles Real Estate Developers. They are a Boston based firm but operate nationally.
 
-The firm, Eagles Real Estate Developers, has already isolated GDP per capita aggregated by Metropolitan Statistical Area level to be a key indicator of long-run performance. Currently the firm lacks a means to forecast GDP per capita but is capable of monitoring employment trends as a guide to future metro level performance. The firm wants to know what are the key employment categories (NAICS-2 Digit) that will drive metro level GDP growth and what are the trends by employment category for major MSAs. This information will then inform what metro areas the firm will invest into. 
+The firm, Eagles Real Estate Developers, has already isolated GDP per capita aggregated by Metropolitan Statistical Area level to be a key indicator of long-run performance. Currently the firm lacks a means to forecast GDP per capita but is capable of monitoring employment trends as a guide to future metro level performance. The firm wants to know what are the key employment categories (NAICS-2 Digit) that will drive metro level GDP growth and what are the trends by employment category for major MSAs. This information will then inform what metro areas the firm should invest in to, as these varibles can be predictors for metro-areas that will have contined growth and therefore need housing. 
 
-In additon to the employment category data, information on the housing sales by region have also been downloaded to also inform on the applicable housing markets that are potential options for the firm to invest in. 
+In additon to the employment category data, information on the housing sales by region have also been downloaded to also inform on the applicable housing markets that are potential options for the firm to invest in. This provides an added layer of information on the health of the relevant hosuing markets. 
 
-The centeral research question for this report is to answer where Eagles Real Estate Developers should invest in. The findings of this analysis will inform the company what regions have the greatest employment and GDP growth, and as a result be the metro areas and regions that the firm should be successful in investing in.  
+The centeral research question for this report is to answer where Eagles Real Estate Developers should invest in, based on the regional labor markets and economic indicators (GDP and employment).
 
 ## Data  
 
@@ -17,17 +17,11 @@ The primary data our team is utilizing for this research was sourced indirectly 
 
 In addition to the primary data, this report utilizes an excursion datset of the Federal Housing Finance Agency (FHFA) data to examine whether metro areas with strong employment-driven GDP growth also experience higher housing price appreciation, providing additional context for Eagles Real Estate Developers. The FHFA data serves as an excellent compliment to our existing data because: a) It is also available through FRED, which is ensures the definition of metropolitan area and formatting is as close as possible; b) the data is reliable and government-backed; and c) the data uses repeated sales of the same property, which accurately shows housing price appreciation.
 
-## Data Summary
-
-_Provide a short description of the nature of the provided data set and explain how these characteristics affect your analysis methodology. Summarize the data set with basic descriptive statistics as applicable._
-
-The primary data our team is utilizing for this research was sourced indirectly from the Bureau of Economic Analysis (BEA), Bureau of Labor Statistics (BLS), and the US Census Bureau through Federal Reserve Economic Data (FRED). GDP, Population, Unemployment Rate,  Total Employment, Employment by NAICS 2 Digit Category, and other potential variables for Major MSAs on FRED pretty readily. 
+## Data Summary 
 
 The data includes information for 14 major metro areas as well as the United States as a whole, including the metro areas for the following states; Georgia, Massachusetts & New Hampshire, Illinois & Indiana, Texas, Colorado, Michigan, California, Florida, Minnesota & Wisconsin, New York & New Jersey, Pennsylvania & Maryland & Delaware, Arizona, Washington, and Washington DC & Virginia & West Virginia and Maryland.
 
 The dataset is on an annual level for 2005 to 2014. The variables for each metro area include; the population size, employment broken down by sector, the unemployment rate, and GMP. 
-
-In addition to the primary data, this report utilizes an excursion datset of the Federal Housing Finance Agency (FHFA) data to examine whether metro areas with strong employment-driven GDP growth also experience higher housing price appreciation, providing additional context for Eagles Real Estate Developers. The FHFA data serves as an excellent compliment to our existing data because: a) It is also available through FRED, which is ensures the definition of metropolitan area and formatting is as close as possible; b) the data is reliable and government-backed; and c) the data uses repeated sales of the same property, which accurately shows housing price appreciation.
  
 ### Brief Data Summary
 
@@ -71,6 +65,8 @@ _Summarize the analytical methodology and provide closure to your analytical sto
 ## Limitations
 
 _Acknowledge any known limitations to data, methods, results_
+
+One limitation is that there are additional varibles outside of the data used within the report that impact the sucess of real estate developers. For example, permiting and zoning laws play a large role in the abilty to add developments, the type of developments and where the siting could occur. All of these factors impact the ability to generate the additonal housing supply, and also impact the desribaility of the hosuing to be added. In the housing market where Eagles Real Estate Developers is sited for example, the addiont of multi-fmaily housing has been increased in recent years in Boston as a result of policy decisons. The MBTA Communities Act was a zoning policy that allowed for an increase in multi-fmaily homes near communter stations (https://www.mass.gov/info-details/multi-family-zoning-requirement-for-mbta-communities). Policys such as there could not be captured through this data analysis. 
 
 ## Future Work
 
