@@ -25,6 +25,8 @@ The dataset is on an annual level for 2005 to 2014. The variables for each metro
  
 ### Brief Data Summary
 
+#### Primary Data - Economic Indicators by Region
+
 **Table 1.**
 
 <img width="236" height="117" alt="Screenshot 2026-04-15 at 7 54 35 PM" src="https://github.com/user-attachments/assets/2321398d-d13c-450d-8a51-01dd4bf5c7d7" />
@@ -39,13 +41,38 @@ The data has four main variables; Date, Region, Industry, and Value. The industr
 
 <img width="1361" height="841" alt="image" src="https://github.com/user-attachments/assets/b585a97c-68a4-4150-9569-2511e3dcb5af" />
 
-There are four rows and 3280 columns.
+There are 4 rows and 3280 columns.
 
 **Table 4.**
 
 <img width="1014" height="913" alt="Screenshot 2026-04-15 at 8 22 34 PM" src="https://github.com/user-attachments/assets/0a9556f4-264f-4c88-8949-ccbb843c6f7b" />
 
 Table 4 inclues the summary statitics by industry across all of the regions and the USA in total. 
+
+#### Exurscion Data - Housing Price Indicators (HPI) by Region
+
+**Table 1.**
+
+XXXX
+
+**Table 2.**
+
+XXXXX
+
+The data has XXXXX main variables; XXXXXXXXX. 
+
+**Table 3.** 
+
+<img width="243" height="136" alt="image" src="https://github.com/user-attachments/assets/11b323a2-4037-491f-8e3b-14140d036c7b" />
+
+There are 150 rows and 6 columns.
+
+**Table 4.**
+
+<img width="212" height="248" alt="image" src="https://github.com/user-attachments/assets/23d87ac7-a92e-4620-9591-154faaf15b0d" />
+
+Table 4 inclues the summary statitics by industry across all of the regions and the USA in total for the HPI. 
+
 
 
 ## Data Analytics
