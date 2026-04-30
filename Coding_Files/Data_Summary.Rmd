@@ -1,0 +1,121 @@
+---
+title: "Data Summary"
+author: "Hannah Farrell"
+date: "2026-04-15"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Data Summary 
+
+```{r lib}
+#Prepping the data for data summary
+#Hannah 
+
+#Prep Libraries 
+remove(list = ls())
+
+library(readr)
+library(tidyverse)
+library(dplyr)
+library(knitr)
+library(here)
+
+#Pull in the data
+library(here)
+
+df <- read.csv(here("MacroData_long_format_v2.csv"))
+view(df)
+
+```
+
+```{r summary}
+#summmary of dataframe
+dim(df)        
+nrow(df)
+ncol(df)
+colnames(df)
+str(df)
+
+#format better
+df_info <- data.frame(
+  Metric = c("Number of Rows", "Number of Columns"),
+  Value = c(nrow(df), ncol(df))
+)
+
+kable(df_info, caption = "Dataset Dimensions")
+
+summary_df <- data.frame(
+  Statistic = c("Min", "1st Quartile", "Median", "Mean", "3rd Quartile", "Max"),
+  Value = as.numeric(summary(df$Value))
+)
+
+kable(summary_df, caption = "Summary Statistics for Value")
+
+```
+
+```{r pressure, echo=FALSE}
+summary(df$Value)
+
+
+df %>%
+  summarise(
+    mean = mean(Value, na.rm = TRUE),
+    median = median(Value, na.rm = TRUE),
+    sd = sd(Value, na.rm = TRUE),
+    min = min(Value, na.rm = TRUE),
+    max = max(Value, na.rm = TRUE)
+  )
+
+df %>%
+  filter(Region != "USA") %>%
+  ggplot(aes(x = Region, y = Value)) +
+  geom_boxplot() +
+  coord_flip() +
+  theme_minimal()
+
+ summary_industry<- df %>%
+  group_by(Industry) %>%
+  summarise(
+    mean = mean(Value, na.rm = TRUE),
+    median = median(Value, na.rm = TRUE),
+    sd = sd(Value, na.rm = TRUE),
+    min = min(Value, na.rm = TRUE),
+    max = max(Value, na.rm = TRUE)
+  )
+ 
+ kable(summary_industry, caption = "Summary Statistics by Industry")
+
+```
+Note: AI was used to utilize the kable formatting of the summary stats to be more atheistic  for the report. 
+
+```{r excursion}
+#excursion summmary of dataframe
+excursion <- read.csv(here("fhfa_hpigrowth_full_clean(proxies).csv"))
+view(excursion)
+  
+dim(excursion)        
+nrow(excursion)
+ncol(excursion)
+colnames(excursion)
+str(excursion)
+
+#format better
+excursion_info <- data.frame(
+  Metric = c("Number of Rows", "Number of Columns"),
+  Value = c(nrow(excursion), ncol(excursion))
+)
+
+kable(excursion_info, caption = "Housing Price Index (HPI) Dataset Dimensions")
+
+summary_excursion <- data.frame(
+  Statistic = c("Min", "1st Quartile", "Median", "Mean", "3rd Quartile", "Max"),
+  Value = as.numeric(summary(excursion$hpi)))
+
+
+kable(summary_excursion, caption = "Summary Statistics for for Housing Price Index (HPI)")
+
+```
