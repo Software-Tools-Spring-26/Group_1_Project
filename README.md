@@ -31,21 +31,23 @@ The dataset is on an annual level for 2005 to 2014. The variables for each metro
 
 <img width="236" height="117" alt="Screenshot 2026-04-15 at 7 54 35 PM" src="https://github.com/user-attachments/assets/2321398d-d13c-450d-8a51-01dd4bf5c7d7" />
 
+There are 4 rows and 3290 columns in the dataset.
+
+
 **Table 2.**
 
-<img width="234" height="248" alt="Screenshot 2026-04-15 at 7 54 44 PM" src="https://github.com/user-attachments/assets/11a3ef74-4930-4104-9502-e0c943290e15" />
+<img width="196" height="242" alt="image" src="https://github.com/user-attachments/assets/b476ae63-6672-455d-94b4-41d96832cd46" />
 
 The data has four main variables; Date, Region, Industry, and Value. The industries are the key employment categories which utilize the NAICS-2 Digit code as an identifier. The industry vairble also contains the the population size, employment broken down by sector, the unemployment rate, and GMP for the applicable metro region. The value listed for each column is the specific value. For example, the value of Altanta population indicates the number of people that live in that metro area. While the NAICS-2 values are those for the employment within that category. 
 
 **Table 3.** 
 
-<img width="228" height="118" alt="image" src="https://github.com/user-attachments/assets/2a7787f0-ae66-452f-b9c0-74f77a662771" />
+<img width="1540" height="951" alt="image" src="https://github.com/user-attachments/assets/af63fd0b-11b4-4783-9b85-5cde2e439433" />
 
-There are 4 rows and 3290 columns.
 
 **Table 4.**
 
-<img width="196" height="242" alt="image" src="https://github.com/user-attachments/assets/b476ae63-6672-455d-94b4-41d96832cd46" />
+(need to add back)
 
 Table 4 inclues the summary statitics by industry across all of the regions. 
 
