@@ -94,11 +94,9 @@ There are 150 rows and 6 columns in hte excusion dataset.
 
 Table 8 inclues the summary statitics by industry across all of the regions and the USA in total for the HPI. 
 
-**Table 9.**
+**Table 9. Metro Area HPI Trends**
 
-
-
-
+<img width="762" height="519" alt="image" src="https://github.com/user-attachments/assets/9d211e70-2ca3-4879-a2eb-a2a3bb45da88" />
 
 
 ## Data Analytics
