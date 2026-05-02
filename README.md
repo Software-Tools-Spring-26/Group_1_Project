@@ -89,22 +89,15 @@ Table 5 inclues the summary statitics by industry across all of the regions brok
 
 There are 150 rows and 6 columns in hte excusion dataset.
 
-**Table 8.**
-
-XXXXX
-
-The data has XXXXX main variables; XXXXXXXXX. 
-
-**Table 7. Summary Statistics for for Housing Price Index**
+**Table 8. Summary Statistics for for Housing Price Index**
  <img width="274" height="231" alt="image" src="https://github.com/user-attachments/assets/c03384b4-4be9-4c90-ba63-4862c37e0133" />
 
+Table 8 inclues the summary statitics by industry across all of the regions and the USA in total for the HPI. 
+
+**Table 9.**
 
 
-**Table 8.**
 
-<img width="212" height="248" alt="image" src="https://github.com/user-attachments/assets/23d87ac7-a92e-4620-9591-154faaf15b0d" />
-
-Table 4 inclues the summary statitics by industry across all of the regions and the USA in total for the HPI. 
 
 
 
