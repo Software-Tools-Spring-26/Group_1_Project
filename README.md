@@ -55,7 +55,8 @@ The dataset is on an annual level for 2005 to 2014. The variables for each metro
 
 **Table 1.**
 
-<img width="236" height="117" alt="Screenshot 2026-04-15 at 7 54 35 PM" src="https://github.com/user-attachments/assets/2321398d-d13c-450d-8a51-01dd4bf5c7d7" />
+<img width="298" height="142" alt="image" src="https://github.com/user-attachments/assets/eb16a462-edb4-4ffc-aaf9-f9370c727e40" />
+
 
 There are 4 rows and 3290 columns in the dataset.
 
@@ -79,23 +80,24 @@ Table 4 inclues the summary statitics by industry across all of the regions.
 
 #### Exurscion Data - Housing Price Indicators (HPI) by Region
 
-**Table 1.**
+**Table 5. Housing Price Index (HPI) Dataset Dimensions**
 
-XXXX
+<img width="296" height="128" alt="image" src="https://github.com/user-attachments/assets/04b967b0-3eb8-40c8-822e-8ce3c669efd6" />
 
-**Table 2.**
+There are 150 rows and 6 columns in hte excusion dataset.
+
+**Table 6.**
 
 XXXXX
 
 The data has XXXXX main variables; XXXXXXXXX. 
 
-**Table 3.** 
+**Table 7. Summary Statistics for for Housing Price Index**
+ <img width="274" height="231" alt="image" src="https://github.com/user-attachments/assets/c03384b4-4be9-4c90-ba63-4862c37e0133" />
 
-<img width="243" height="136" alt="image" src="https://github.com/user-attachments/assets/11b323a2-4037-491f-8e3b-14140d036c7b" />
 
-There are 150 rows and 6 columns.
 
-**Table 4.**
+**Table 8.**
 
 <img width="212" height="248" alt="image" src="https://github.com/user-attachments/assets/23d87ac7-a92e-4620-9591-154faaf15b0d" />
 
