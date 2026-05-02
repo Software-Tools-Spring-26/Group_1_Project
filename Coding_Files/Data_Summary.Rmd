@@ -2,7 +2,20 @@
 title: "Data Summary"
 author: "Hannah Farrell"
 date: "2026-04-15"
-output: html_document
+output: 
+  pdf_document:
+    toc: true
+    toc_depth: 4
+    number_sections: true
+    fig_caption: true
+    highlight: tango
+    latex_engine: xelatex
+    keep_tex: true
+fontsize: 12pt
+geometry: landscape, margin=1in
+header-includes:
+  - \usepackage{float}
+
 ---
 
 ```{r setup, include=FALSE}
@@ -23,16 +36,29 @@ library(tidyverse)
 library(dplyr)
 library(knitr)
 library(here)
+library(stringr)
+
 
 #Pull in the data
 library(here)
 
-df <- read.csv(here("MacroData_long_format_v2.csv"))
+options(scipen = 999)
+
+df <- read.csv(here("MacroData_long_format_2 MAY 2026.csv"))
 view(df)
+
+#make the region names shorter 
+
+df <- df %>%
+  mutate(Region_clean = case_when(
+    Region == "USA" ~ "USA",
+    str_detect(Region, "Metro Area") ~ str_extract(Region, "[A-Z]{2}.*Metro Area"),
+    TRUE ~ Region
+  ))
 
 ```
 
-```{r summary}
+```{r summary, echo=FALSE}
 #summmary of dataframe
 dim(df)        
 nrow(df)
@@ -48,18 +74,41 @@ df_info <- data.frame(
 
 kable(df_info, caption = "Dataset Dimensions")
 
-summary_df <- data.frame(
+#summary_df <- data.frame(
+#  Statistic = c("Min", "1st Quartile", "Median", "Mean", "3rd Quartile", "Max"),
+#  Value = as.numeric(summary(df$Value)))
+
+#kable(summary_df, caption = "Summary Statistics for Value")
+
+
+#Filter out the non-MSA varibales 
+
+filtered_df <- df %>%
+  filter(
+    Region != "USA",
+    !Industry %in% c(
+      "GDPC1",
+      "GMP",
+      "POP",
+      "Total Employment",
+      "Unemployment Rate"
+    )
+  )
+
+# Create summary statistics table using filtered data
+summary_filtered_df <- data.frame(
   Statistic = c("Min", "1st Quartile", "Median", "Mean", "3rd Quartile", "Max"),
-  Value = as.numeric(summary(df$Value))
+  Value = as.numeric(summary(filtered_df$Value))
 )
 
-kable(summary_df, caption = "Summary Statistics for Value")
+kable(summary_filtered_df, caption = "Summary Statistics for Employment Values (Thousands of People)")
 
 ```
 
-```{r pressure, echo=FALSE}
-summary(df$Value)
+```{r pressure}
+#summary(df$Value)
 
+###### Summary tables 
 
 df %>%
   summarise(
@@ -70,14 +119,46 @@ df %>%
     max = max(Value, na.rm = TRUE)
   )
 
-df %>%
-  filter(Region != "USA") %>%
-  ggplot(aes(x = Region, y = Value)) +
+filtered_df %>%
+  filter(Region_clean != "USA") %>%
+  ggplot(aes(x = Region_clean, y = Value)) +
   geom_boxplot() +
   coord_flip() +
-  theme_minimal()
+  theme_minimal() +
+  labs(
+    x = "Metro Region",
+    y = "Thousands of People",
+    title = "Distribution of Total Employment by Region"
+  )
 
- summary_industry<- df %>%
+macro_df <- df %>%
+  filter(
+    Industry %in% c(
+      "GDPC1",
+      "GMP",
+      "POP",
+      "Total Employment",
+      "Unemployment Rate"
+    ))
+```
+
+```{r industry, echo=FALSE}
+ summary_industry<- filtered_df %>%
+  group_by(Industry) %>%
+  summarise(
+    mean = mean(Value, na.rm = TRUE),
+    median = median(Value, na.rm = TRUE),
+    sd = sd(Value, na.rm = TRUE),
+    min = min(Value, na.rm = TRUE),
+    max = max(Value, na.rm = TRUE)
+  )
+
+
+ kable(summary_industry)
+```
+
+```{r macro, echo=FALSE}
+ summary_macro<- macro_df %>%
   group_by(Industry) %>%
   summarise(
     mean = mean(Value, na.rm = TRUE),
@@ -87,14 +168,14 @@ df %>%
     max = max(Value, na.rm = TRUE)
   )
  
- kable(summary_industry, caption = "Summary Statistics by Industry")
+ kable(summary_macro)
 
 ```
 Note: AI was used to utilize the kable formatting of the summary stats to be more atheistic  for the report. 
 
 ```{r excursion}
 #excursion summmary of dataframe
-excursion <- read.csv(here("fhfa_hpigrowth_full_clean(proxies).csv"))
+excursion <- read.csv(here("fhfa_hpigrowth_full_clean(proxies)_2 MAY 2026.csv"))
 view(excursion)
   
 dim(excursion)        
@@ -117,5 +198,38 @@ summary_excursion <- data.frame(
 
 
 kable(summary_excursion, caption = "Summary Statistics for for Housing Price Index (HPI)")
+
+
+#make the region names shorter 
+
+excursion <- excursion %>%
+  mutate(Region_clean = case_when(
+    Region == "USA" ~ "USA",
+    str_detect(Region, "Metro Area") ~ str_extract(Region, "[A-Z]{2}.*Metro Area"),
+    TRUE ~ Region
+  ))
+
+
+
+##Charts 
+excursion_index <- excursion %>%
+  filter(Region != "USA") %>%
+  group_by(Region) %>%
+  arrange(Year) %>%
+  mutate(index_value = hpi / hpi[Year == 2005] * 100) %>%
+  ungroup()
+
+ggplot(excursion_index, aes(x = Year, y = index_value, color = Region_clean)) +
+  geom_line(linewidth = 1) +
+  geom_hline(yintercept = 100, linetype = "dashed", color = "gray50") +
+  labs(
+    title = "Metro Area Economic Trends (Indexed to 2005 = 100)",
+    x = "Year",
+    y = "Index (2005 = 100)",
+    color = "Metro Area"
+  ) +
+  theme_minimal() +
+  theme(legend.position = "right")
+
 
 ```
