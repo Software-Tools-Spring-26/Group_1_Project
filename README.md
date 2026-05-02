@@ -39,15 +39,15 @@ The data has four main variables; Date, Region, Industry, and Value. The industr
 
 **Table 3.** 
 
-<img width="1361" height="841" alt="image" src="https://github.com/user-attachments/assets/b585a97c-68a4-4150-9569-2511e3dcb5af" />
+<img width="228" height="118" alt="image" src="https://github.com/user-attachments/assets/2a7787f0-ae66-452f-b9c0-74f77a662771" />
 
-There are 4 rows and 3280 columns.
+There are 4 rows and 3290 columns.
 
 **Table 4.**
 
-<img width="1014" height="913" alt="Screenshot 2026-04-15 at 8 22 34 PM" src="https://github.com/user-attachments/assets/0a9556f4-264f-4c88-8949-ccbb843c6f7b" />
+<img width="196" height="242" alt="image" src="https://github.com/user-attachments/assets/b476ae63-6672-455d-94b4-41d96832cd46" />
 
-Table 4 inclues the summary statitics by industry across all of the regions and the USA in total. 
+Table 4 inclues the summary statitics by industry across all of the regions. 
 
 #### Exurscion Data - Housing Price Indicators (HPI) by Region
 
