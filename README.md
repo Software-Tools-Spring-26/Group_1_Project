@@ -17,6 +17,9 @@ The primary data our team is utilizing for this research was sourced indirectly 
 
 In addition to the primary data, this report utilizes an excursion datset of the Federal Housing Finance Agency (FHFA) data to examine whether metro areas with strong employment-driven GDP growth also experience higher housing price appreciation, providing additional context for Eagles Real Estate Developers. The FHFA data serves as an excellent compliment to our existing data because: a) It is also available through FRED, which is ensures the definition of metropolitan area and formatting is as close as possible; b) the data is reliable and government-backed; and c) the data uses repeated sales of the same property, which accurately shows housing price appreciation.
 
+The data has four main variables; Date, Region, Industry, and Value. The industries are the key employment categories which utilize the NAICS-2 Digit code as an identifier. The industry vairble also contains the the population size, employment broken down by sector, the unemployment rate, and GMP for the applicable metro region. The value listed for each column is the specific value. For example, the value of Altanta population indicates the number of people that live in that metro area. While the NAICS-2 values are those for the employment within that category. The below table provides a breakdown of the units and description for each of the variables used in the main dataset for this report.
+
+**Table 1. Dataset Variable Descriptions**
 | Metric | Units | Description |
 |--------|-------|-------------|
 | Employment - 21 - Mining, Quarrying, and Oil and Gas Extraction | Thousands of Persons | Measures the number of employees (in thousands) working in the broader mining, quarrying, oil, and gas industry sector as defined by the North American Industrial Classification System (NAICS). Raw data source: U.S. Bureau of Labor Statistics (BLS) State and Area Employment, Hours, and Earnings dataset via FRED. |
@@ -49,44 +52,44 @@ The data includes information for fourteen (14) major metro areas as well as the
 
 The dataset is on an annual level for 2005 to 2014. The variables for each metro area include; the population size, employment broken down by sector, the unemployment rate, and GMP. The employment values for each subcategory are provided in thousands of jobs for that category of employment for the year.  
  
-### Brief Data Summary
+### Brief Data Summary: Primary Data - Economic Indicators by Region
 
-#### Primary Data - Economic Indicators by Region
-
-**Table 1.**
+**Table 2. Dataset Dimensions**
 
 <img width="298" height="142" alt="image" src="https://github.com/user-attachments/assets/eb16a462-edb4-4ffc-aaf9-f9370c727e40" />
-
 
 There are 4 rows and 3290 columns in the dataset.
 
 
-**Table 2.**
+**Table 3. Summary Statistics for Employment Values(Thousands of People)**
 
-<img width="196" height="242" alt="image" src="https://github.com/user-attachments/assets/b476ae63-6672-455d-94b4-41d96832cd46" />
+<img width="274" height="235" alt="image" src="https://github.com/user-attachments/assets/943dca5f-6bb8-49e7-857d-be880c868923" /> 
 
-The data has four main variables; Date, Region, Industry, and Value. The industries are the key employment categories which utilize the NAICS-2 Digit code as an identifier. The industry vairble also contains the the population size, employment broken down by sector, the unemployment rate, and GMP for the applicable metro region. The value listed for each column is the specific value. For example, the value of Altanta population indicates the number of people that live in that metro area. While the NAICS-2 values are those for the employment within that category. 
+**Table 4. Distribution of Total Employment by Region** 
 
-**Table 3.** 
-
-<img width="1540" height="951" alt="image" src="https://github.com/user-attachments/assets/af63fd0b-11b4-4783-9b85-5cde2e439433" />
+<img width="709" height="490" alt="image" src="https://github.com/user-attachments/assets/449bb894-539a-4c44-ba2f-8f67f8ddc074" />
 
 
-**Table 4.**
+**Table 5. Summary Statistics for Industry Employment**
 
-(need to add back)
+<img width="992" height="513" alt="image" src="https://github.com/user-attachments/assets/2eadbb4d-b64e-4cab-b883-5c5e9f49783c" />
 
-Table 4 inclues the summary statitics by industry across all of the regions. 
+Table 5 inclues the summary statitics by industry across all of the regions broken down by employment category. 
 
-#### Exurscion Data - Housing Price Indicators (HPI) by Region
+**Table 6. Summary Statistics for Macro Variables**
 
-**Table 5. Housing Price Index (HPI) Dataset Dimensions**
+<img width="988" height="181" alt="image" src="https://github.com/user-attachments/assets/a9a5701a-aced-4120-ba57-b2838a9d7578" />
+
+
+### Brief Data Summary: Excursion Data - Housing Price Indicators (HPI) by Region
+
+**Table 7. Housing Price Index (HPI) Dataset Dimensions**
 
 <img width="296" height="128" alt="image" src="https://github.com/user-attachments/assets/04b967b0-3eb8-40c8-822e-8ce3c669efd6" />
 
 There are 150 rows and 6 columns in hte excusion dataset.
 
-**Table 6.**
+**Table 8.**
 
 XXXXX
 
