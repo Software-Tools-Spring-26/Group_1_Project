@@ -101,7 +101,17 @@ Table 8 inclues the summary statitics by industry across all of the regions and 
 
 ## Data Analytics
 
-_Provide data analytics that add clarity to the research question. Thoroughly discuss insight obtained from your visualizations and analysis of aggregated, data. Suggest an excursion, and provide supporting analysis. Plots should be well formatted according to best practices learned in class. Discuss the advantages and challenges of performing analysis in your chosen software tool._
+The visualizations provide a comparative view of economic structure and performance across major U.S. metropolitan areas using employment composition, output (GMP), and labor market indicators. The metro comparison table highlights large differences in economic scale across regions. New York stands out with the highest GMP (around 1.6 million), followed by Los Angeles and Chicago, indicating their dominant role in national economic output. However, unemployment rates do not scale directly with size. For example, Chicago and Riverside both show higher unemployment rates near 9 percent, while Seattle has the lowest at around 5 percent despite a smaller overall economy. This suggests that labor market efficiency is not solely dependent on economic size.
+
+The GMP growth visualization from 2005 to 2014 shows that all metros experienced a decline around 2008–2009, consistent with the financial crisis. Recovery patterns differ across regions. Larger metros such as New York and Los Angeles demonstrate strong and steady post-recession growth, while smaller metros like Orlando and Riverside recover more slowly. This indicates that larger and more diversified economies may be more resilient to economic shocks.
+
+The top five employment sectors chart shows that most metros are dominated by service-based industries, particularly retail trade, healthcare, and accommodation-related sectors. There are still meaningful differences in structure. Some metros, such as Seattle and San Francisco, appear more balanced across industries, while others, including Orlando, are more concentrated in a smaller number of sectors. Greater concentration may increase vulnerability if those industries experience downturns.
+
+The bottom five employment sectors chart reinforces this pattern by showing consistently low representation in industries such as mining, utilities, and management. While these sectors are small across all metros, slight variation still exists, and regions with more diversification even among smaller sectors may have added economic stability.
+
+Based on the combined analysis, Seattle-Tacoma-Bellevue is a strong candidate for further exploration. It has the lowest unemployment rate among the metros shown and demonstrates steady GMP growth over time. Its employment distribution also appears more balanced compared to more concentrated metros such as Orlando or Riverside. This combination of low unemployment, consistent growth, and diversification suggests a more stable and resilient economic structure.
+
+Tableau was effective for transforming complex datasets into clear and interpretable visualizations. The ability to build stacked bar charts and dashboards made it easier to compare metros and identify patterns across multiple variables. Filtering and visual interaction improved clarity when working with multiple regions. However, the process required careful data preparation, particularly converting the dataset into long format. Managing multiple metrics within the same workflow also introduced challenges, as small inconsistencies in formatting or data alignment could affect results and required close attention during validation.
 
 ### Tableau Dashboard
 
@@ -110,16 +120,16 @@ The Tableau dashboard was developed to provide a structured, visual analysis of 
 Together, these visualizations provide complementary insights into both the structure and performance of metropolitan economies. The industry composition charts identify which sectors dominate or lag within each metro, offering insight into the underlying economic base. The GMP trend visualization adds a temporal dimension, revealing which regions experienced stronger or more stable growth over time. The comparison table provides a clear snapshot of economic scale and labor market conditions, allowing for direct cross-metro comparison. By combining these elements into a single interactive dashboard, the analysis enables a more comprehensive evaluation of regional economic strength and supports the identification of metros with characteristics that may be more favorable for long-term real estate investment.
 
 ### Top 5 Employment Sectors by Metro Area
-[![Top 5](Top%205.png)](https://public.tableau.com/app/profile/aurora.seekins3478/viz/GroupMetricsRough/Dashboard1?publish=yes)
+[![Top 5](Top5Final.png)](https://public.tableau.com/app/profile/aurora.seekins3478/viz/GroupMetricsRough/Dashboard1?publish=yes)
 
 ### Bottom 5 Employment Sectors by Metro Area
-[![Bottom 5](Bottom%205.png)](https://public.tableau.com/app/profile/aurora.seekins3478/viz/GroupMetricsRough/Dashboard1?publish=yes)
+[![Bottom 5](Bottom5Final.png)](https://public.tableau.com/app/profile/aurora.seekins3478/viz/GroupMetricsRough/Dashboard1?publish=yes)
 
 ### GMP Growth by Metro Area
-[![GMP Growth](GMP%20Growth.png)](https://public.tableau.com/app/profile/aurora.seekins3478/viz/GMPGrowth/Dashboard2?publish=yes)
+[![GMP Growth](GMPFinal.png)](https://public.tableau.com/app/profile/aurora.seekins3478/viz/GMPGrowth/Dashboard2?publish=yes)
 
 ### Metro Comparison Table
-[![Metro Comparison](Metro%20Comparison.png)](https://public.tableau.com/app/profile/aurora.seekins3478/viz/MetroComp/Dashboard3?publish=yes)
+[![Metro Comparison](MetroFinal.png)](https://public.tableau.com/app/profile/aurora.seekins3478/viz/MetroComp/Dashboard3?publish=yes)
 
 ## Conclusion (10 pts)
 
