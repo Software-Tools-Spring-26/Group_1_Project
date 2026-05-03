@@ -176,7 +176,7 @@ Together, these visualizations provide complementary insights into both the stru
 ## Macro Economic Growth Trends 
 <img width="1200" height="800" alt="US vs Metro GDP" src="https://github.com/user-attachments/assets/c94428cb-bbd2-4c50-899a-0f965a8f1fd8" />
 
-<img width="1000" height="600" alt="Population" src="https://github.com/user-attachments/assets/56e0e092-673e-48c8-980c-c3fcd5ce1107" 
+<img width="1000" height="600" alt="Population" src="https://github.com/user-attachments/assets/56e0e092-673e-48c8-980c-c3fcd5ce1107" />
  
 <img width="1000" height="600" alt="Unemployment Rates" src="https://github.com/user-attachments/assets/9f279066-2627-48f1-8a79-3f8b8e62c02a" />
 
