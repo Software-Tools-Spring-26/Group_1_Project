@@ -131,6 +131,41 @@ Together, these visualizations provide complementary insights into both the stru
 ### Metro Comparison Table
 [![Metro Comparison](MetroFinal.png)](https://public.tableau.com/app/profile/aurora.seekins3478/viz/MetroComp/Dashboard3?publish=yes)
 
+
+
+## Employment Growth Rates by Industry 
+
+
+<img width="1000" height="600" alt="Manufacturing Employment" src="https://github.com/user-attachments/assets/5374304c-b77a-4f92-98ce-9ac862ccf93e" />
+
+<img width="1000" height="600" alt="Retail Trade Employment" src="https://github.com/user-attachments/assets/caafd34f-d58b-498f-96a3-da59ec953508" />
+
+<img width="1000" height="600" alt="Transportation and Warehousing Employment" src="https://github.com/user-attachments/assets/2a158304-9a49-47a9-a4a3-024229effe99" />
+
+<img width="1000" height="600" alt="Information Employment" src="https://github.com/user-attachments/assets/d3679d99-e995-4e72-ab44-793bd573b997" />
+
+<img width="1000" height="600" alt="Finance and Insurance Employment" src="https://github.com/user-attachments/assets/ee96f7e0-b881-4205-b28b-1d9e7853a9fd" />
+
+<img width="1000" height="600" alt="Real Estate Rental and Leasing Employment" src="https://github.com/user-attachments/assets/2eb98fc0-5189-4022-94d4-8fde057112c4" />
+
+<img width="1000" height="600" alt="Professional Scientific and Technical Services Employment" src="https://github.com/user-attachments/assets/4a7c5f0b-a2ea-4ec4-afca-6554ec8f4c67" />
+
+<img width="1000" height="600" alt="Administrative Support and Waste Services Employment" src="https://github.com/user-attachments/assets/3ee154f0-6f8a-4b3b-8d0f-ec1e886f835c" />
+
+<img width="1000" height="600" alt="Management of Companies Employment" src="https://github.com/user-attachments/assets/e67670d7-07e0-4006-914d-4acc6e64b221" />
+
+<img width="1000" height="600" alt="Educational Services Employment" src="https://github.com/user-attachments/assets/3723eaa7-ce01-4079-9dd5-6b18d5cf149e" />
+
+<img width="1000" height="600" alt="Healthcare and Social Assistance Employment" src="https://github.com/user-attachments/assets/b70fa8d9-7669-4cb9-9595-436b5e58e032" />
+
+<img width="1000" height="600" alt="Arts Entertainment and Recreation Employment" src="https://github.com/user-attachments/assets/2f03e795-cf9e-420c-b7ff-b7a7a966b011" />
+
+<img width="1000" height="600" alt="Arts Entertainment and Recreation Employment" src="https://github.com/user-attachments/assets/e3304773-b8fb-4cfa-8af3-fce8b08c58e2" />
+
+<img width="1000" height="600" alt="Public Admin Employment" src="https://github.com/user-attachments/assets/5ade7914-abea-48b1-829b-f6f75f1c7977" />
+
+<img width="1000" height="600" alt="Accomodation and Food Services Employment" src="https://github.com/user-attachments/assets/a84ea366-70fc-42f9-89a9-61da8883308d" />
+
 ## Conclusion (10 pts)
 
 _Summarize the analytical methodology and provide closure to your analytical story. Succinctly answer the research questions. Highlight the limitations of your findings and recommend future work. Do not make policy recommendations here._
