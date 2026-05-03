@@ -1,14 +1,14 @@
 library(fredr)
 library(tidyverse)
 
-fredr_set_key("(FredKey)")
+fredr_set_key("b4e7ad4fe913e1bf4b183f3c047ecb7a")
 
 series_ids <- c(
   "ATNHPIUS12060Q", # Atlanta-Sandy Springs-Roswell, GA Metro Area (Full)
   "ATNHPIUS14454Q", # Boston (Proxy MSA for Boston-Cambridge-Newton, MA-NH Metro Area)
   "ATNHPIUS16984Q", #Chicago-Naperville-Evanston (proxy for Chicago-Naperville-Elgin, IL-IN Metro Area)
   "ATNHPIUS19124Q", #Dallas-Plano-Irving, TX (MSAD)(proxy for Dallas-Fort Worth-Arlington, TX Metro Area)
-  "ATNHPIUS19740Q", #Denver (FUll)
+  "ATNHPIUS19740Q", #Denver (Full)
   "ATNHPIUS26420Q", #Houston (Full)
   "ATNHPIUS31084Q", #Los Angeles-Long Beach-Glendale, CA (MSAD) (proxy for Los Angeles-Long Beach-Anaheim)
   "ATNHPIUS35614Q", #New York-Jersey City-White Plains (proxy for New York-Newark-Jersey City, NY-NJ Metro Area)
@@ -71,3 +71,13 @@ fhfa_annual_grates_clean <- fhfa_annual_clean %>%
   ungroup()
 
 write_csv(fhfa_annual_grates_clean, "fhfa_hpigrowth_full_clean(proxies).csv")
+
+#Added in a proxies column within excel to indicate which MSAs are MSAD proxies
+#Adding data back in now
+
+library(readr)
+df <- read_csv("fhfa_hpigrowth_full_clean(proxies)_2_MAY_2026.csv")
+
+df$date <- as.Date(paste0(df$Year, "-01-01"))
+
+write.csv(df, "fhfa_hpigrowth_full_clean(proxies)_2_MAY_2026.csv", row.names = FALSE)
