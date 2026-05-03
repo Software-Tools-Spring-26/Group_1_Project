@@ -1,7 +1,7 @@
 library(fredr)
 library(tidyverse)
 
-fredr_set_key("(Fred Key_")
+fredr_set_key("(Fred Key)")
 
 series_ids <- c(
   "ATNHPIUS12060Q", # Atlanta-Sandy Springs-Roswell, GA Metro Area (Full)
