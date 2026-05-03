@@ -135,6 +135,11 @@ Together, these visualizations provide complementary insights into both the stru
 
 ## Employment Growth Rates by Industry 
 
+<img width="1000" height="600" alt="Mining Quarrying and Natural Gas Employment" src="https://github.com/user-attachments/assets/8dee3714-2784-4ec5-8eed-9e53bc876fa5" />
+
+<img width="1000" height="600" alt="Utilities Employment" src="https://github.com/user-attachments/assets/c1d9174d-24ce-4be4-8927-8d2bc429f475" />
+
+<img width="1000" height="600" alt="Construction Employment" src="https://github.com/user-attachments/assets/79305dd1-703c-4c75-a093-5d506455d5a6" />
 
 <img width="1000" height="600" alt="Manufacturing Employment" src="https://github.com/user-attachments/assets/5374304c-b77a-4f92-98ce-9ac862ccf93e" />
 
@@ -165,6 +170,17 @@ Together, these visualizations provide complementary insights into both the stru
 <img width="1000" height="600" alt="Public Admin Employment" src="https://github.com/user-attachments/assets/5ade7914-abea-48b1-829b-f6f75f1c7977" />
 
 <img width="1000" height="600" alt="Accomodation and Food Services Employment" src="https://github.com/user-attachments/assets/a84ea366-70fc-42f9-89a9-61da8883308d" />
+
+<img width="1000" height="600" alt="Other Services Employment" src="https://github.com/user-attachments/assets/08f66f46-4e8a-43ff-ab8d-3aba14705b80" />
+
+## Macro Economic Growth Trends 
+<img width="1200" height="800" alt="US vs Metro GDP" src="https://github.com/user-attachments/assets/c94428cb-bbd2-4c50-899a-0f965a8f1fd8" />
+
+<img width="1000" height="600" alt="Population" src="https://github.com/user-attachments/assets/56e0e092-673e-48c8-980c-c3fcd5ce1107" 
+ 
+<img width="1000" height="600" alt="Unemployment Rates" src="https://github.com/user-attachments/assets/9f279066-2627-48f1-8a79-3f8b8e62c02a" />
+
+
 
 ## Conclusion (10 pts)
 
