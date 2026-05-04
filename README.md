@@ -227,6 +227,23 @@ Additionally, applying econometric techniques could help identify which employme
 
 ## Policy Recommendation
 
+| Metro Area | Rank | Percent of Categories where the Metro Outperformed the US CAGR |
+|---|---|---|
+| Houston-Pasadena-The Woodlands, TX | 1* | 81.8% |
+| Seattle-Tacoma-Bellevue, WA | 2* | 81.8% |
+| Dallas-Fort Worth-Arlington, TX | 3 | 77.3% |
+| Denver-Aurora-Centennial, CO | 4 | 72.7% |
+| Phoenix-Mesa-Chandler, AZ | 5 | 68.2% |
+| Orlando-Kissimmee-Sanford, FL | 6 | 63.6% |
+| Atlanta-Sandy Springs-Roswell, GA | 7* | 59.1% |
+| San Francisco-Oakland-Fremont, CA | 8* | 59.1% |
+| Boston-Cambridge-Newton, MA-NH | 9* | 50.0% |
+| New York-Newark-Jersey City, NY-NJ | 10* | 50.0% |
+| Riverside-San Bernardino-Ontario, CA | 11* | 50.0% |
+| San Diego-Chula Vista-Carlsbad, CA | 12 | 45.5% |
+| Los Angeles-Long Beach-Anaheim, CA | 13 | 36.4% |
+| Chicago-Naperville-Elgin, IL-IN | 14 | 20.0% |
+
 Eagles Real Estate Developers should focus most of its investment on metropolitan areas that have a diverse mix of industries and show stable GMP growth overtime, while still putting a smaller portion of its money into faster-growing but more volatile cities that exhibit recent outperformance trends over the US average. Metros like Boston, San Francisco, and New York stand out because they have balanced employment across sectors, consistent economic growth, and relatively stable unemployment rates. Boston, New York, and San Francisco outperformed the US average CAGR on at least half of all metrics. These factors suggest that demand for real estate in these areas is more likely to remain strong over time and less affected by downturns in any single industry. Boston and New York in particular also saw multi-year alignment in their property value increases with GMP trends, suggesting that the methodology used here to determine value growth is especially potent in those two MSAs. San Francisco also saw this alignment, which is encouraging, but began to see a slight downward trend in GMP growth in the last year of our observed time period. At the same time, cities like Orlando or Phoenix show higher growth potential but also more volatility which, so investing in them at a smaller scale allows the firm to take advantage of potential gains without taking on too much risk. Houston and Seattle provide ample opportunity for risk-adjusted returns as they both outperformed the US CAGR on ~82 percent of metrics and are both well established information and professional services hubs. The development of multi-family units in these two metro areas should present outperformance as these metros should see outsized population and employment growth over the long-term. 
 
 This strategy helps create a more stable overall portfolio by reducing exposure to economic shocks and supporting long-term returns. However, there are tradeoffs. Focusing on stable metros may mean missing out on higher returns in faster-growing cities, and larger, well-established metros often have higher costs of entry. In addition, both types of metros can still be affected by broader economic downturns. Overall, this approach balances risk and return by combining reliable markets with some exposure to higher-growth opportunities, using the employment and GMP data to guide more informed investment decisions.
