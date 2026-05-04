@@ -116,7 +116,7 @@ The dataset contains a moderate range of HPI values, from 134.13 (the min) to 37
 |Seattle-Tacoma-Bellevue, WA Metro Area          |   233.66|     229.43|  22.48|  206.74|  270.70|            3.02|              3.87|          9.38|          -9.77|          15.91|
 |USA                                             |   340.53|     338.55|  23.81|  311.12|  377.64|            0.94|              0.42|          5.78|          -5.55|          11.35|
 
-As indicated in Table 9, the metro area with the highest average HPI  was the CA metro area (San Francisco-Oakland-Fremont). 
+As indicated in Table 9, the metro area with the highest average HPI was the CA metro area (San Francisco-Oakland-Fremont). While the Seattle-Tacoma-Bellevue had the fifth highest average HPI, and the third highest HPI average growth rate. Texas (Houston-Pasadena-The Woodlands) and California (San Francisco-Oakland-Fremont) had the other two highest HPI growth averages. Thus, reflecting that these metro regions had strong housing prices and price growth over the study period. These regions would be ideal to consider given their strong price histories. 
 
 ## Data Analytics
 
