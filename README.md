@@ -3,13 +3,13 @@
 Group: Grant Hanauer, Nicholas Hoffman, Aurora Seekins, and Hannah Farrell
 
 ## Introduction 
-A real estate developer is considering opportunities for future investment. For the purpose of this report the real estate developer is Eagles Real Estate Developers. They are a Boston based firm but operate nationally.
+A real estate developer is considering opportunities for future investment. For the purposes of this report, the real estate developer is Eagles Real Estate Developers. They are a Boston based firm but operate nationally.
 
-The firm, Eagles Real Estate Developers, has already isolated GDP per capita aggregated by Metropolitan Statistical Area level to be a key indicator of long-run performance. Currently the firm lacks a means to forecast GDP per capita but is capable of monitoring employment trends as a guide to future metro level performance. The firm wants to know what are the key employment categories (NAICS-2 Digit) that will drive metro level GDP growth and what are the trends by employment category for major MSAs. This information will then inform what metro areas the firm should invest in to, as these varibles can be predictors for metro-areas that will have contined growth and therefore need housing. 
+Eagles Real Estate Developers has already isolated GDP per capita aggregated by Metropolitan Statistical Area (MSA) level to be a key indicator of long-run performance. Currently the firm lacks a means to forecast GDP per capita but is capable of monitoring employment trends as a guide to future metro level performance. The firm seeks to understand what key employment categories (NAICS-2 Digit) will drive metro level GDP growth and what are the trends are for those employment categories in major MSAs. The firm will utilize this information as a reasonable estimate of likely property value increases in the area based on perceived economic development and growth, and it intends to decide which MSAs to make its largest investments in based on this data.
 
-In additon to the employment category data, information on the housing sales by region have also been downloaded to also inform on the applicable housing markets that are potential options for the firm to invest in. This provides an added layer of information on the health of the relevant hosuing markets. 
+To better inform our analysis and recommendations, and particularly because of housing market volatility following the Great Recession and its aftermath, we will also briefly examine trends in housing prices to ascertain the potential correlation between increased area output (GMP) and property values. 
 
-The centeral research question for this report is to answer where Eagles Real Estate Developers should invest in, based on the regional labor markets and economic indicators (GDP and employment).
+The central research question that the analysis in this report seeks to answer is: Where should Eagles Real Estate Developers invest, based on the regional labor markets and economic indicators (GDP and employment).
 
 ## Data  
 
