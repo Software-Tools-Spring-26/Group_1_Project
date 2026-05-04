@@ -147,7 +147,7 @@ The primary data analysis we performed here was on the economic indicators, as t
 [![Bottom 5](Bottom5Final.png)](https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1)
 
 ### GMP Growth by Metro Area
-[![GMP Growth](GMP Trend By Metro.png)](https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1)
+[![GMP Growth](GMPTrend.png)](https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1)
 
 ### Metro Comparison Table
 [![Metro Comparison](MetroFinal.png)](https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1)
