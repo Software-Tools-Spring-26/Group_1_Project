@@ -46,11 +46,9 @@ The primary employment and output data mentioned above has four main variables; 
 | US GDP (GDPC1) | Billions of Chained 2017 Dollars (Seasonally Adjusted) | Real GDP of the United States. Raw data source: BEA via FRED. |
 | Population | Thousands of Persons | Total resident population of the geographic area. Raw data source: U.S. Census Bureau via FRED. |
 
-## Data Summary 
+## Summary Tables
 
-The data includes information for fourteen (14) major metro areas as well as the United States as a whole, including the metro areas for the following states; Georgia, Massachusetts & New Hampshire, Illinois & Indiana, Texas, Colorado, Michigan, California, Florida, Minnesota & Wisconsin, New York & New Jersey, Pennsylvania & Maryland & Delaware, Arizona, Washington, and Washington DC & Virginia & West Virginia and Maryland.
-
-The dataset is on an annual level for 2005 to 2014. The variables for each metro area include; the population size, employment broken down by sector, the unemployment rate, and GMP. The employment values for each subcategory are provided in thousands of jobs for that category of employment for the year.  
+Here we include a series of tables to summarize our data for additional context.
  
 ### Brief Data Summary: Primary Data - Economic Indicators by Region
 
