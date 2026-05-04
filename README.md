@@ -150,6 +150,10 @@ Together, these visualizations provide complementary insights into both the stru
 ### Metro Comparison Table
 [![Metro Comparison](MetroFinal.png)](https://public.tableau.com/app/profile/aurora.seekins3478/viz/MetroComp/Dashboard3?publish=yes)
 
+### GMP vs HPI Growth Rates (All Regions) 2005-2014
+
+
+### GMP VS HPI Growth Rates By Region 2012-2014
 
 
 ## Employment Growth Rates by Industry 
