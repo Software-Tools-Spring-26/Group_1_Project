@@ -143,6 +143,12 @@ The primary data analysis we performed here was on the economic indicators, as t
 ### Top 5 Employment Sectors by Metro Area
 [![Top 5](Top5Final.png)](https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1)
 
+<p align="center">
+  <a href="https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1">
+    <img src="Top5Final.png" width="800">
+  </a>
+</p>
+
 ### Bottom 5 Employment Sectors by Metro Area
 [![Bottom 5](Bottom5Final.png)](https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1)
 
