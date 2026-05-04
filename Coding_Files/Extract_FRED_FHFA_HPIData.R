@@ -121,16 +121,16 @@ hpi_by_region
 summary_by_region <- fhfa_annual_grates_clean %>%
   group_by(Region) %>%
   summarize(
-    hpi_mean = mean(hpi, na.rm = TRUE),
-    hpi_median = median(hpi, na.rm = TRUE),
-    hpi_sd = sd(hpi, na.rm = TRUE),
-    hpi_min = min(hpi, na.rm = TRUE),
-    hpi_max = max(hpi, na.rm = TRUE),
-    hpi_growth_mean = mean(hpi_growth_pct, na.rm = TRUE),
-    hpi_growth_median = median(hpi_growth_pct, na.rm = TRUE),
-    hpi_growth_sd = sd(hpi_growth_pct, na.rm = TRUE),
-    hpi_growth_min = min(hpi_growth_pct, na.rm = TRUE),
-    hpi_growth_max = max(hpi_growth_pct, na.rm = TRUE),
+    'HPI Mean' = mean(hpi, na.rm = TRUE),
+    'HPI Median' = median(hpi, na.rm = TRUE),
+    'HPI SD' = sd(hpi, na.rm = TRUE),
+    'HPI Min' = min(hpi, na.rm = TRUE),
+    'HPI Max' = max(hpi, na.rm = TRUE),
+    'HPI Growth Mean' = mean(hpi_growth_pct, na.rm = TRUE),
+    'HPI Growth Max' = median(hpi_growth_pct, na.rm = TRUE),
+    'HPI Growth SD' = sd(hpi_growth_pct, na.rm = TRUE),
+    'HPI Growth Min' = min(hpi_growth_pct, na.rm = TRUE),
+    'HPI Growth Max' = max(hpi_growth_pct, na.rm = TRUE),
     .groups = "drop"
   ) %>%
   arrange(Region)
