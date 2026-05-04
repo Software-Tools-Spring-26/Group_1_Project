@@ -216,9 +216,9 @@ An additional limitation is that there are additional variables outside of the d
 
 ## Future Work
 
-Future work could expand this analysis by incorporating more recent data to capture current economic trends. Adding housing market data would also strengthen the connection between economic performance and real estate investment decisions.
+Future work could expand this analysis by incorporating more recent data to capture current economic trends. The impact of the 2020 coronavirus pandemic on the economic growth would be better captured with more recent data. Following the pandemic there has also been a shift in where people live and work, many people moving away from more urban areas. This shift in where and how people live could lead to a difference in where the firm should invest. Looking at the type of real estate to invest in also may have shifted. This was not something that our report looked into but could also be helpful for the firm to investigate, commercial versus residential investments as these may vary by the region as well. Adding more housing market data would also strengthen the connection between economic performance and real estate investment decisions.
 
-Additionally, applying econometric techniques could help identify which employment sectors are the strongest predictors of GMP growth. Expanding the dataset to include more metropolitan areas or even international comparisons could also provide a broader perspective.3
+Additionally, applying econometric techniques could help identify which employment sectors are the strongest predictors of GMP growth. Expanding the dataset to include more metropolitan areas or even international comparisons could also provide a broader perspective. With a larger dataset the firm would see if investing in regions in Canada or South America could also be profitable for them. 
 
 ## Policy Recommendation
 
