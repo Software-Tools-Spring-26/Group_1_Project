@@ -118,17 +118,6 @@ Table 8 includes the summary statistics by industry across all of the regions an
 
 <img width="762" height="519" alt="image" src="https://github.com/user-attachments/assets/9d211e70-2ca3-4879-a2eb-a2a3bb45da88" />
 
-**Table 9. Overall Annual HPI Summary Statistics for the Observed MSAs (Excluding the United States Overall)**
-
-| mean| median|    sd|    min|   max|
-|----:|------:|-----:|------:|-----:|
-|  1.6|   0.17| 10.53| -28.15| 33.47|
-
-**Table 10. Overall Annual HPI Growth Summary Statistics for the Observed MSAs (Excluding the United States Overall)**
-
-| mean| median|    sd|    min|   max|
-|----:|------:|-----:|------:|-----:|
-|  1.6|   0.17| 10.53| -28.15| 33.47|
 
 ## Data Analytics
 
