@@ -93,7 +93,25 @@ There are 150 rows and 6 columns in hte excusion dataset.
  <img width="274" height="231" alt="image" src="https://github.com/user-attachments/assets/c03384b4-4be9-4c90-ba63-4862c37e0133" />
 
 Table 8 includes the summary statistics by industry across all of the regions and the USA in total for the HPI. 
+Table: Summary Statistics for FHFA HPI and Annual HPI Growth by Region
 
+|Region                                          | hpi_mean| hpi_median| hpi_sd| hpi_min| hpi_max| hpi_growth_mean| hpi_growth_median| hpi_growth_sd| hpi_growth_min| hpi_growth_max|
+|:-----------------------------------------------|--------:|----------:|------:|-------:|-------:|---------------:|-----------------:|-------------:|--------------:|--------------:|
+|Atlanta-Sandy Springs-Roswell, GA Metro Area    |   159.48|     160.13|  17.11|  134.13|  181.42|           -0.35|             -0.78|          6.24|          -7.74|           9.55|
+|Boston-Cambridge-Newton, MA-NH Metro Area       |   242.60|     238.09|  16.73|  225.38|  268.31|           -0.03|             -0.82|          4.48|          -5.10|           8.90|
+|Chicago-Naperville-Elgin, IL-IN Metro Area      |   173.35|     169.16|  22.22|  147.88|  204.50|           -0.62|             -0.85|          6.69|          -9.12|          10.71|
+|Dallas-Fort Worth-Arlington, TX Metro Area      |   164.24|     162.88|   8.30|  153.94|  184.56|            2.18|              2.02|          3.20|          -2.02|           8.72|
+|Denver-Aurora-Centennial, CO Metro Area         |   193.98|     192.05|  11.25|  181.48|  221.50|            1.77|              0.20|          4.35|          -2.34|          10.01|
+|Houston-Pasadena-The Woodlands, TX Metro Area   |   184.95|     183.91|  15.21|  161.76|  218.66|            3.59|              3.83|          3.61|          -1.39|          10.58|
+|Los Angeles-Long Beach-Anaheim, CA Metro Area   |   264.88|     257.03|  42.40|  221.10|  335.17|            2.38|             -0.75|         13.20|         -18.51|          24.30|
+|New York-Newark-Jersey City, NY-NJ Metro Area   |   241.51|     235.99|  17.19|  222.96|  268.78|            1.09|             -0.39|          6.71|          -6.29|          15.77|
+|Orlando-Kissimmee-Sanford, FL Metro Area        |   199.29|     184.55|  48.28|  146.64|  273.24|            1.09|             -0.86|         15.58|         -17.05|          27.18|
+|Phoenix-Mesa-Chandler, AZ Metro Area            |   209.93|     197.87|  50.25|  146.89|  288.41|            2.83|              3.10|         17.99|         -19.62|          33.47|
+|Riverside-San Bernardino-Ontario, CA Metro Area |   226.87|     209.62|  62.08|  166.99|  328.02|            1.13|             -1.60|         16.90|         -28.15|          24.78|
+|San Diego-Chula Vista-Carlsbad, CA Metro Area   |   226.87|     209.62|  62.08|  166.99|  328.02|            1.13|             -1.60|         16.90|         -28.15|          24.78|
+|San Francisco-Oakland-Fremont, CA Metro Area    |   276.76|     279.56|  27.94|  240.89|  318.26|            3.26|              0.86|          9.74|          -8.86|          19.20|
+|Seattle-Tacoma-Bellevue, WA Metro Area          |   233.66|     229.43|  22.48|  206.74|  270.70|            3.02|              3.87|          9.38|          -9.77|          15.91|
+|USA                                             |   340.53|     338.55|  23.81|  311.12|  377.64|            0.94|              0.42|          5.78|          -5.55|          11.35|
 **Table 9. Metro Area HPI Trends**
 
 <img width="762" height="519" alt="image" src="https://github.com/user-attachments/assets/9d211e70-2ca3-4879-a2eb-a2a3bb45da88" />
