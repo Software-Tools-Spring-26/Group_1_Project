@@ -141,25 +141,19 @@ Together, these visualizations provide complementary insights into both the stru
 The primary data analysis we performed here was on the economic indicators, as the firm is utilizing this part of the analysis to understand MSA economic performance. The excursion was somewhat useful for contextualizing how these economic indicators are correlated with immediate property value changes. Though our primary dataset was comprehensive for the 2005-2014 period, that period also included the Great Recession, which saw erratic property value data that deviated as the economy grappled with how to recover. The graph “GMP vs HPI Growth Rates (All Regions) 2005-2014” shows how linked the trends between GMP and HPI were during this time, with the cratering trend of GMP almost exactly mirroring the HPI trend one year earlier.  However, encouragingly trends seem to follow each other as the recovery from the recession began to stabilize, and the last 1 to 2 years of our dataset saw trends that began to closely resemble each other in GMP and HPI growth.  The dashboard “GMP Growth vs HPI Growth By Region” seeks to capture this trend in each region by organizing the graphs left-to-right by both their correlation and positive GMP growth in the last two years of observation to try to understand which MSA property values respond most reliably to trends in GMP during this time as an indicator of future performance. 
 
 ### Top 5 Employment Sectors by Metro Area
-[![Top 5](Top5Final.png)](https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1)
-
-<p align="center">
-  <a href="https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1">
-    <img src="Top5Final.png" width="800">
-  </a>
-</p>
+[![Top 5](Image_Files/Top5Final.png)](https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1)
 
 ### Bottom 5 Employment Sectors by Metro Area
-[![Bottom 5](Bottom5Final.png)](https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1)
+[![Bottom 5](Image_Files/Bottom5Final.png)](https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1)
 
 ### GMP Growth by Metro Area
-[![GMP Trend](GMPTrend.png)](https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1)
+[![GMP Trend](Image_Files/GMPTrend.png)](https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1)
 
 ### Metro Comparison Table
-[![Metro Comparison](MetroFinal.png)](https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1)
+[![Metro Comparison](Image_Files/MetroFinal.png)](https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1)
 
 ### GMP vs HPI Growth Rates (All Regions) 2005-2014
-[![GMP vs HPI Growth Rates (GMPvHPIGrates_All.png)](MetroFinal.png)](https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1)
+[![GMP vs HPI Growth Rates (Image_Files/GMPvHPIGrates_All.png)](MetroFinal.png)](https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1)
 
 ### GMP VS HPI Growth Rates By Region 2012-2014
 [![GMP vs HPI Growth Rates (By Region)](GMPvHPIGrates_Regional.png)](https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1)
