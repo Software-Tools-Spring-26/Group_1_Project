@@ -63,11 +63,13 @@ There are 4 rows and 3290 columns in the dataset.
 
 <img width="274" height="235" alt="image" src="https://github.com/user-attachments/assets/943dca5f-6bb8-49e7-857d-be880c868923" /> 
 
+The dataset contains a large range of employment values, from 200 people (the min) to 1.6 million people (the max). While the average number of people employed in a given category was 136,558 people. 
 
 **Table 4. Distribution of Total Employment by Region** 
 
 <img width="709" height="490" alt="image" src="https://github.com/user-attachments/assets/449bb894-539a-4c44-ba2f-8f67f8ddc074" />
 
+Table 4 provides the distributions of total employment by metro region. From the plot it is clear to see that the New York metro region has higher employment levels as compared to the other regions examined in this analysis. In addition, both New York, Texas, and California have several outliers beyond the upper quartile range.  
 
 
 **Table 5. Summary Statistics for Industry Employment**
@@ -92,6 +94,7 @@ There are 150 rows and 6 columns in hte excusion dataset.
 **Table 8. Summary Statistics for for Housing Price Index**
  <img width="274" height="231" alt="image" src="https://github.com/user-attachments/assets/c03384b4-4be9-4c90-ba63-4862c37e0133" />
  
+The dataset contains a moderate range of HPI values, from 134.13 (the min) to 377.64 (the max). While the average HPI value was 222.59.
 
 **Table 9. Summary Statistics for Annual FHFA HPI and Annual HPI Growth by Region**
 
@@ -113,6 +116,7 @@ There are 150 rows and 6 columns in hte excusion dataset.
 |Seattle-Tacoma-Bellevue, WA Metro Area          |   233.66|     229.43|  22.48|  206.74|  270.70|            3.02|              3.87|          9.38|          -9.77|          15.91|
 |USA                                             |   340.53|     338.55|  23.81|  311.12|  377.64|            0.94|              0.42|          5.78|          -5.55|          11.35|
 
+As indicated in Table 9, the metro area with the highest average HPI  was the CA metro area (San Francisco-Oakland-Fremont). 
 
 ## Data Analytics
 
