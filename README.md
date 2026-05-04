@@ -9,7 +9,7 @@ Eagles Real Estate Developers has already isolated GDP per capita aggregated by 
 
 To better inform our analysis and recommendations, and particularly because of housing market volatility following the Great Recession and its aftermath, we will also briefly examine trends in housing prices to ascertain the potential correlation between increased area output (GMP) and property values. 
 
-The central research question that the analysis in this report seeks to answer is: Where should Eagles Real Estate Developers invest, based on the regional labor markets and economic indicators (GDP and employment).
+The central research question that the analysis in this report seeks to answer is: Where should Eagles Real Estate Developers invest, based on the regional labor markets and economic indicators (GDP and employment)?
 
 ## Data  
 
