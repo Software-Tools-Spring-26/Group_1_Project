@@ -63,9 +63,11 @@ There are 4 rows and 3290 columns in the dataset.
 
 <img width="274" height="235" alt="image" src="https://github.com/user-attachments/assets/943dca5f-6bb8-49e7-857d-be880c868923" /> 
 
+
 **Table 4. Distribution of Total Employment by Region** 
 
 <img width="709" height="490" alt="image" src="https://github.com/user-attachments/assets/449bb894-539a-4c44-ba2f-8f67f8ddc074" />
+
 
 
 **Table 5. Summary Statistics for Industry Employment**
@@ -92,7 +94,7 @@ There are 150 rows and 6 columns in hte excusion dataset.
 
 Table 8 includes the summary statistics by industry across all of the regions and the USA in total for the HPI. 
 
-**Table 8. Summary Statistics for Annual FHFA HPI and Annual HPI Growth by Region**
+**Table 9. Summary Statistics for Annual FHFA HPI and Annual HPI Growth by Region**
 
 |Region                                          | hpi_mean| hpi_median| hpi_sd| hpi_min| hpi_max| hpi_growth_mean| hpi_growth_median| hpi_growth_sd| hpi_growth_min| hpi_growth_max|
 |:-----------------------------------------------|--------:|----------:|------:|-------:|-------:|---------------:|-----------------:|-------------:|--------------:|--------------:|
