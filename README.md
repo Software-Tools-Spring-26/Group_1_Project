@@ -153,10 +153,10 @@ The primary data analysis we performed here was on the economic indicators, as t
 [![Metro Comparison](Image_Files/MetroFinal.png)](https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1)
 
 ### GMP vs HPI Growth Rates (All Regions) 2005-2014
-[![GMP vs HPI Growth Rates (Image_Files/GMPvHPIGrates_All.png)](https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1)
+[![GMP vs HPI Growth Rates](Image_Files/GMPvHPIGrates_All.png)](https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1)
 
 ### GMP VS HPI Growth Rates By Region 2012-2014
-[![GMP vs HPI Growth Rates (By Region)](Image_Files/GMPvHPIGrates_Regional.png)](https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1)
+[![GMP vs HPI Growth Rates](By Region)](Image_Files/GMPvHPIGrates_Regional.png)](https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1)
 
 ## Employment Growth Rates by Industry 
 
