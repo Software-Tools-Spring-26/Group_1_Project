@@ -93,7 +93,7 @@ There are 150 rows and 6 columns in hte excusion dataset.
  <img width="274" height="231" alt="image" src="https://github.com/user-attachments/assets/c03384b4-4be9-4c90-ba63-4862c37e0133" />
 
 Table 8 includes the summary statistics by industry across all of the regions and the USA in total for the HPI. 
-Table: Summary Statistics for FHFA HPI and Annual HPI Growth by Region
+Table 8: Summary Statistics for FHFA HPI and Annual HPI Growth by Region
 
 |Region                                          | hpi_mean| hpi_median| hpi_sd| hpi_min| hpi_max| hpi_growth_mean| hpi_growth_median| hpi_growth_sd| hpi_growth_min| hpi_growth_max|
 |:-----------------------------------------------|--------:|----------:|------:|-------:|-------:|---------------:|-----------------:|-------------:|--------------:|--------------:|
@@ -112,6 +112,7 @@ Table: Summary Statistics for FHFA HPI and Annual HPI Growth by Region
 |San Francisco-Oakland-Fremont, CA Metro Area    |   276.76|     279.56|  27.94|  240.89|  318.26|            3.26|              0.86|          9.74|          -8.86|          19.20|
 |Seattle-Tacoma-Bellevue, WA Metro Area          |   233.66|     229.43|  22.48|  206.74|  270.70|            3.02|              3.87|          9.38|          -9.77|          15.91|
 |USA                                             |   340.53|     338.55|  23.81|  311.12|  377.64|            0.94|              0.42|          5.78|          -5.55|          11.35|
+
 **Table 9. Metro Area HPI Trends**
 
 <img width="762" height="519" alt="image" src="https://github.com/user-attachments/assets/9d211e70-2ca3-4879-a2eb-a2a3bb45da88" />
