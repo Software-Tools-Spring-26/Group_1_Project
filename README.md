@@ -147,16 +147,16 @@ The primary data analysis we performed here was on the economic indicators, as t
 [![Bottom 5](Image_Files/Bottom5Final.png)](https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1)
 
 ### GMP Trend by Metro Area
-[![GMP Trend](Image_Files/GMPTrend.png)](https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1)
+[![GMP Trend](Image_Files/GMPTrendDashboard.png)](https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1)
 
 ### Metro Comparison Table
 [![Metro Comparison](Image_Files/MetroFinal.png)](https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1)
 
 ### GMP vs HPI Growth Rates (All Regions) 2005-2014
-[![GMP vs HPI Growth Rates](Image_Files/GMPvHPIGrates_All.png)](https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1)
+[![GMP vs HPI Growth Rates](Image_Files/GMPvHPIGrates_All_Final.png)](https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1)
 
 ### GMP VS HPI Growth Rates By Region 2012-2014
-[![GMP vs HPI Growth Rates(By Region)](Image_Files/GMPvHPIGrates_Regional.png)](https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1)
+[![GMP vs HPI Growth Rates(By Region)](Image_Files/ByRegionGrowthDashboard.png)](https://public.tableau.com/app/profile/nicholas.hoffman5273/viz/Group1FinalProjectVisualizations/FinalVisualizationsStory#1)
 
 ## Employment Growth Rates by Industry 
 
