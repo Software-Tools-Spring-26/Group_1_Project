@@ -113,10 +113,6 @@ There are 150 rows and 6 columns in hte excusion dataset.
 |Seattle-Tacoma-Bellevue, WA Metro Area          |   233.66|     229.43|  22.48|  206.74|  270.70|            3.02|              3.87|          9.38|          -9.77|          15.91|
 |USA                                             |   340.53|     338.55|  23.81|  311.12|  377.64|            0.94|              0.42|          5.78|          -5.55|          11.35|
 
-**Table 9. Metro Area HPI Trends** **(I think we can remove this)**
-
-<img width="762" height="519" alt="image" src="https://github.com/user-attachments/assets/9d211e70-2ca3-4879-a2eb-a2a3bb45da88" />
-
 
 ## Data Analytics
 
