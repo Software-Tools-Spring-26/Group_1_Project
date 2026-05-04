@@ -95,7 +95,7 @@ There are 150 rows and 6 columns in hte excusion dataset.
 
 **Table 9. Summary Statistics for Annual FHFA HPI and Annual HPI Growth by Region**
 
-|Region                                          | hpi_mean| hpi_median| hpi_sd| hpi_min| hpi_max| hpi_growth_mean| hpi_growth_median| hpi_growth_sd| hpi_growth_min| hpi_growth_max|
+|Region                                          | HPI Mean| HPI Median| HPI SD| HPI Min| HPI Max| HPI Growth Mean| HPI Growth Median| HPI Growth SD| HPI Growth Min| HPI Growth Max|
 |:-----------------------------------------------|--------:|----------:|------:|-------:|-------:|---------------:|-----------------:|-------------:|--------------:|--------------:|
 |Atlanta-Sandy Springs-Roswell, GA Metro Area    |   159.48|     160.13|  17.11|  134.13|  181.42|           -0.35|             -0.78|          6.24|          -7.74|           9.55|
 |Boston-Cambridge-Newton, MA-NH Metro Area       |   242.60|     238.09|  16.73|  225.38|  268.31|           -0.03|             -0.82|          4.48|          -5.10|           8.90|
