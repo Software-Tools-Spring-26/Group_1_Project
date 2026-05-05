@@ -207,13 +207,11 @@ The primary data analysis we performed here was on the economic indicators, as t
 
 
 
-## Conclusion (10 pts)
+## Conclusion
 
 14 primary MSAs with full data availability were selected to cover macroeconomic trends across different broad regions of the US. NYC, Atlanta, Boston, and Orlando provide a read into the east coast. Seattle, San Francisco, Riverside, Los Angeles, and San Diego provide a thorough look at the west coast, Chicago provides insight into the Mideast, Denver and Phoenix represent the Midwest. Dallas and Houston provide a look into the Sunbelt core. Data was extracted from FRED using a mixture of hardcoded selections and an API pulling script built on Python. From there, the data went through initial cleaning to eliminate missing values and was organized into a panel for thorough analysis. In order to provide an easy means of comparison, CAGRs (Compounded Annual Growth Rates) were calculated and charted for each metric using Python. A CAGR helps eliminate the volatility and bias that might be seen in a simple arithmetic average by allowing for a compounding or “growth on growth” effect. Over multi-year periods, traditional percent changes or arithmetic averages tend to overstate the amount of growth compared to the true geometric average.
 
- 
-
-## Limitations
+**Limitations**
 
 There are some limitations to the reports analysis provided. While the data covers the 14 largest metro regions, it is not comprehensive to cover all 393 metro regions in the United States. There are additional secondary and tertiary metropolitan areas which could provide outsized albeit volatile growth opportunities versus the more established geographies used in our study. A decision was made to avoid these smaller MSAs due to lack of data availability or limited structure within their public datasets.
 
