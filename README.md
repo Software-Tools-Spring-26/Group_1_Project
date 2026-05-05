@@ -190,13 +190,15 @@ The primary data analysis we performed here was on the economic indicators, as t
 
 <img width="1000" height="600" alt="Arts Entertainment and Recreation Employment" src="https://github.com/user-attachments/assets/2f03e795-cf9e-420c-b7ff-b7a7a966b011" />
 
-<img width="1000" height="600" alt="Arts Entertainment and Recreation Employment" src="https://github.com/user-attachments/assets/e3304773-b8fb-4cfa-8af3-fce8b08c58e2" />
-
 <img width="1000" height="600" alt="Public Admin Employment" src="https://github.com/user-attachments/assets/5ade7914-abea-48b1-829b-f6f75f1c7977" />
 
 <img width="1000" height="600" alt="Accomodation and Food Services Employment" src="https://github.com/user-attachments/assets/a84ea366-70fc-42f9-89a9-61da8883308d" />
 
 <img width="1000" height="600" alt="Other Services Employment" src="https://github.com/user-attachments/assets/08f66f46-4e8a-43ff-ab8d-3aba14705b80" />
+
+The employment categories of Retail Trade, Healthcare, and Accommodation were consistently in the top 5 employment sectors across the regions. When looking at the CAGR Retail trade was positive across the majority of the regions despite being more moderate between 0 to 2% growth. 
+
+Both Professional, Scientific, and Technical Services, Accommodations, Art and Healthcare saw exclusively positive CAGR. Indicating their stability and influence in ensuring growth across the regions. These employment sectors do well across regions while others like mining and real estate have strong positive growth in some metro regions while negative in others. 
 
 ## Macro Economic Growth Trends 
 <img width="1200" height="800" alt="US vs Metro GDP" src="https://github.com/user-attachments/assets/c94428cb-bbd2-4c50-899a-0f965a8f1fd8" />
@@ -205,7 +207,7 @@ The primary data analysis we performed here was on the economic indicators, as t
  
 <img width="1000" height="600" alt="Unemployment Rates" src="https://github.com/user-attachments/assets/9f279066-2627-48f1-8a79-3f8b8e62c02a" />
 
-
+In Washington Metro and the two Texas Metros areas, the GMP growth was the highest. For Seattle over 1/3 of the total employment came from the mining sector. While in Texas the top employment categories was spilt between Arts and Transportation. 
 
 ## Conclusion
 
