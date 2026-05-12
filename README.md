@@ -2,6 +2,11 @@
 # Group-Project Final Report 
 Group: Grant Hanauer, Nicholas Hoffman, Aurora Seekins, and Hannah Farrell
 
+# Presentation 
+
+https://youtu.be/-KdYyWfSlGU
+
+
 ## Introduction 
 A real estate developer is considering opportunities for future investment. For the purposes of this report, the real estate developer is Eagles Real Estate Developers. They are a Boston based firm but operate nationally.
 
