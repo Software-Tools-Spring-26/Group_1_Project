@@ -4,7 +4,7 @@ Group: Grant Hanauer, Nicholas Hoffman, Aurora Seekins, and Hannah Farrell
 
 # Presentation 
 
-[![Presentation Video](https://www.youtube.com/watch?v=-KdYyWfSlGU.jpg)](https://www.youtube.com/watch?v=-KdYyWfSlGU "Video Title")
+[![Presentation Video](https://www.youtube.com/watch?v=-KdYyWfSlGU.jpg)](https://www.youtube.com/watch?v=-KdYyWfSlGU)
 
 
 ## Introduction 
